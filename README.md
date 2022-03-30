@@ -75,4 +75,4 @@ The tracking pre-regulator feedback network presents the possibility of destabil
 ## Disclaimer
 Please note the disclaimers detailed within the design files. The author assumes no liability in the use of this device, nor guarantees any of its function or availability.
 
-© LD Stanton 2021
+© LD Stanton 2021-2022
